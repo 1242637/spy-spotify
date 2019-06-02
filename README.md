@@ -60,8 +60,5 @@ Spytify records what your computer's sound card outputs. Spytify records the sam
 ## Translate
 You can help translate Spytify on Zanata.org, see [Translate](translate.md) for more details.
 
-## License
-Licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
 ## Download
 ### [Download](https://github.com/jwallet/spy-spotify/releases)
